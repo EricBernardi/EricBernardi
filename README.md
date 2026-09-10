@@ -8,12 +8,6 @@ I'm particularly interested in backend development, software architecture and bu
 
 🚀 Always learning, building projects and improving my skills.
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricBernardi&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricBernardi&layout=compact&show_icons=true&theme=tokyonight" width="48%">
-</p>
-
 <br>
 ## 🛠️ Technologies & Tools
 <div> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
