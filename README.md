@@ -1,7 +1,12 @@
 ## Hi guys, I am Éric!
 
-- I’m a passionate developer currently studying **Java** and **Angular**.
-- I also have experience with **Node.js** and other web technologies.
+I'm a Java Full Stack Developer with 5+ years of experience developing web applications.
+
+My main technologies are Java, Spring Boot and Angular, with additional experience in Node.js, REST APIs, databases and Docker.
+
+I'm particularly interested in backend development, software architecture and building clean, scalable and maintainable applications.
+
+🚀 Always learning, building projects and improving my skills.
 
 ## 📊 GitHub Stats  
 <p align="center">
